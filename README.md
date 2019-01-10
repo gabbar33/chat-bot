@@ -1,2 +1,2 @@
 # chat-bot
-creating the chat for demo
+creating the chat-bot for demo
